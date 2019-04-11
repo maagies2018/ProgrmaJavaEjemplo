@@ -13,6 +13,7 @@ public class Persona {
 
     public String getNombre() {
     	String var1;
+    	String var2;
         return nombre;
     }
 
